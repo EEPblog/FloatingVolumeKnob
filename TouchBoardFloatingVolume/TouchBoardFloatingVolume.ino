@@ -29,7 +29,7 @@
 
 #include <MPR121.h>         //include the necessary libraries
 #include <Wire.h>
-#include <HID-Project.h>
+#include <HID-Project.h>    //this library can be found in the library manager
 #define MPR121_ADDR 0x5C
 #define MPR121_INT 4
 
